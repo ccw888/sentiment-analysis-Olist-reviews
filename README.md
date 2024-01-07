@@ -36,18 +36,5 @@ nota fiscal (invoice)
 produto chegou (product arrived)
 
 
-## How to Run the Project
-Provide steps on how to clone, set up, and run the project locally.
-
-## Contributors
-List of people who have contributed to this project.
-
-## License
-State the license under which this project is available, such as MIT, GPL, etc.
-
-## Contact
-Provide your contact information for others to reach out for collaborations or queries.
-
 ---
 
-Feel free to adjust this template to better fit your project specifics and personal style.
