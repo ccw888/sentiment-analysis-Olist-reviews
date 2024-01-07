@@ -36,23 +36,6 @@ nota fiscal (invoice)
 produto chegou (product arrived)
 
 
-
-
-🇧🇷 Some Brazilian expressions and their translations:
-
-producto errado = wrong product
-ainda nao = not yet
-nao entregue = not delivered
-nao veio = did not come
-nao gostei = did not like it
-produto defeito = defective product
-nao functiona = not working
-produto diferente = different product
-pessima qualidade = poor quality
-veio defeito = came defect
-veio faltando = came missing
-veio errado = came wrong
-
 ## How to Run the Project
 Provide steps on how to clone, set up, and run the project locally.
 
